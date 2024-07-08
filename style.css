@@ -1,0 +1,72 @@
+#app{
+    width: 40%;
+    margin-top: 10%;
+    margin-inline: auto;
+    
+}
+
+#title{
+    text-align: center;
+}
+
+#convert{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: fit-content;
+
+}
+
+.content{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    max-width: 100%;
+}
+
+#convert{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 10px;
+}
+
+#action{
+    margin-inline: auto;
+    max-width: inherit;
+    width: 100%;
+    border-radius: 2px;
+    border-color: black;
+    border-style: double;
+    padding: 5px;
+}
+
+.image_and_link{
+    max-width: max-content;
+    min-width: min-content;
+    color: black;
+}
+
+#footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+#github{
+    max-width: 25px;
+}
+
+#github-text{
+   color: inherit;
+}
+
+#tip{
+    max-width: 25px;
+
+}
+
+#tip-text{
+    color: inherit;
+}
